@@ -10,7 +10,9 @@ Tests:
 
 Build:
 > flutter build macos
+
 or
+
 > flutter build linux --release
 
 If you need to edit the rss feeds, you can find them in lib/urls.dart
